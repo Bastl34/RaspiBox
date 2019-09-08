@@ -25,3 +25,6 @@ max_framebuffer_width=2560
 max_framebuffer_height=1440
 hdmi_pixel_freq_limit=400000000
 ```
+
+# Slow SSD Fix
+`https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=245931`
