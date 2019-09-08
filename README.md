@@ -14,6 +14,9 @@ dtoverlay=gpio-shutdown,gpio_pin=3
 dtoverlay=gpio-poweroff,gpiopin=21,active_low
 ```
 
+# Monitor Sleep Mode
+add `hdmi_blanking=1` to `/boot/config.txt`  
+
 # Resolution
 
 ## 1440p
