@@ -28,3 +28,7 @@ hdmi_pixel_freq_limit=400000000
 
 # Slow SSD Fix
 `https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=245931`
+
+
+# VS Code
+`https://github.com/headmelted/codebuilds/issues/64`
