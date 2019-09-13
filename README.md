@@ -1,5 +1,11 @@
-# RaspiBox WIP
-Manuals for the RaspiBox
+# RaspiBox WIP (Raspberry Pi 4)
+Manuals/Links for the RaspiBox
+
+![Raspi Box](https://cdn.thingiverse.com/renders/ce/10/85/bb/08/bf6fef603f6cb21949797557faec39fd_preview_featured.jpg "Raspi Box")
+
+
+# STL Download:
+--> https://www.thingiverse.com/thing:3781308
 
 
 # GPIO
