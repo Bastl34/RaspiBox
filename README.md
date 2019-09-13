@@ -35,3 +35,6 @@ hdmi_pixel_freq_limit=400000000
 
 # VS Code
 `https://github.com/headmelted/codebuilds/issues/64`
+
+# DRM Content
+`https://blog.vpetkov.net/2019/07/12/netflix-and-spotify-on-a-raspberry-pi-4-with-latest-default-chromium/`
