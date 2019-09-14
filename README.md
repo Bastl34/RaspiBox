@@ -44,3 +44,11 @@ hdmi_pixel_freq_limit=400000000
 
 # DRM Content
 `https://blog.vpetkov.net/2019/07/12/netflix-and-spotify-on-a-raspberry-pi-4-with-latest-default-chromium/`
+
+# Overclocking to 1750Mhz
+`sudo nano /boot/config.txt`
+
+```
+over_voltage=2
+arm_freq=1750
+```
